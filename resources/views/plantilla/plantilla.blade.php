@@ -158,7 +158,7 @@
                 <footer class="sticky-footer bg-white">
                     <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; <a href="SISTEMAPRACTICAS" target="_blank">SISTEMAPRACTICAS</a> 2019</span>
+                        <span>Copyright &copy; <a href="https://github.com/JOGL3/ProyectosPracticas" target="_blank">Sistemas-Practica-ucv</a> 2019</span>
                     </div>
                     </div>
                 </footer>
